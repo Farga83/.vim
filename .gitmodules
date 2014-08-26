@@ -46,3 +46,6 @@
 [submodule "bundle/vim-easymotion"]
 	path = bundle/vim-easymotion
 	url = https://github.com/Lokaltog/vim-easymotion
+[submodule "bundle/flatlandia"]
+	path = bundle/flatlandia
+	url = https://github.com/jordwalke/flatlandia
