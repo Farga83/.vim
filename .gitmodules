@@ -49,3 +49,6 @@
 [submodule "bundle/flatlandia"]
 	path = bundle/flatlandia
 	url = https://github.com/jordwalke/flatlandia
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
