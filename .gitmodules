@@ -4,9 +4,6 @@
 [submodule "bundle/badwolf"]
 	path = bundle/badwolf
 	url = https://github.com/sjl/badwolf.git
-[submodule "bundle/Omnisharp"]
-	path = bundle/Omnisharp
-	url = https://github.com/nosami/Omnisharp.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
