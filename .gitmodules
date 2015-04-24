@@ -55,3 +55,6 @@
 [submodule "bundle/omnisharp-vim"]
 	path = bundle/omnisharp-vim
 	url = https://github.com/OmniSharp/omnisharp-vim
+[submodule "bundle/vim-wombat-scheme"]
+	path = bundle/vim-wombat-scheme
+	url = https://github.com/sheerun/vim-wombat-scheme
